@@ -1,4 +1,4 @@
 ## test
 
 
-[a relative link](newfile.md)
+[a relative link](/newfile.md)
