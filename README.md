@@ -1,4 +1,6 @@
 ## test
 
 
-[a relative link](/newfile.md)
+[an internal relative link](/newfile.md)
+
+[a html link](/testhtml.html)
